@@ -27,6 +27,9 @@
     <a href="https://web.facebook.com/cheksereyodam/">
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />
   </a>
+     <a href="https://www.instagram.com/chek_sereyodam/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
  <hr/>
