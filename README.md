@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Administrator**
+ 🔭 I’m currently working on **an Software Engineer**
  
  🌱 I’m currently learning **Dart, SQL, AWS**
 
@@ -23,6 +23,9 @@
   </a>
   <a href="https://sereyodamchek-mocha.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+    <a href="https://web.facebook.com/cheksereyodam/">
+    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />
   </a>
 </div>
 
