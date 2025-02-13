@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an Software Engineer**
+ 🔭 I’m currently working on **a Software Engineer**
  
- 🌱 I’m currently learning **Dart, SQL, AWS**
+ 🌱 I’m currently learning **Flutter, SQL, Laravel**
 
 
  </div>
@@ -22,13 +22,16 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://sereyodamchek-mocha.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <a href="https://web.facebook.com/cheksereyodam/">
     <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />
   </a>
      <a href="https://www.instagram.com/chek_sereyodam/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+     <a href="https://www.tiktok.com/@sereyodam_chek?_t=ZS-8tsm3NC0R04">
+    <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok" />
   </a>
 </div>
 
